@@ -123,3 +123,9 @@ ol {
 .history {
     margin-top: 5%;
 }
+
+@media (max-width: 712px) {
+    ol{
+        font-size: 100%;
+    }
+}
