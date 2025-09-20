@@ -53,6 +53,8 @@ label{
     border-radius: 20px;
     padding: 10%;
     margin: 5% 0;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 input {
@@ -132,9 +134,21 @@ ol {
     .card{
         padding: 5%;
         font-size: 80%;
-        max-width: 90%;
+        max-width: 80%;
+        margin-bottom: 40%;
     }
     ol{
         font-size: 80%;
+        width: 80%;
+    }
+
+    .head{
+        margin: 20px 5px;
+        font-size: 120%;
+    }
+
+    .balance{
+        font-size: 80%;
+        margin-bottom: 15%;
     }
 }
