@@ -126,6 +126,6 @@ ol {
 
 @media (max-width: 712px) {
     ol{
-        font-size: 100%;
+        font-size: 80%;
     }
 }
